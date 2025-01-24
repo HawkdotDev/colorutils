@@ -1,6 +1,6 @@
-# Future Plans for colorutils
+# Future Plans for colorutilskit
 
-This document outlines the roadmap and future plans for colorutils.
+This document outlines the roadmap and future plans for colorutilskit.
 
 ## Version 1.1.0
 

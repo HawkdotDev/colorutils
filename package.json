@@ -1,5 +1,5 @@
 {
-  "name": "colorutils",
+  "name": "colorutilskit",
   "version": "1.1.2",
   "description": "A lightweight color manipulation toolkit for web applications",
   "main": "dist/index.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HawkdotDev/colorutils.git"
+    "url": "https://github.com/HawkdotDev/colorutilskit.git"
   },
   "license": "MIT",
   "files": [

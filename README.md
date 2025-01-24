@@ -1,4 +1,4 @@
-# colorutils
+# colorutilskit
 
 A lightweight, zero-dependency color manipulation toolkit for web applications.
 
@@ -51,7 +51,7 @@ import {
   // Color Generation
   getColorFromString,
   getColorFromNumber,
-} from "colorutils";
+} from "colorutilskit";
 
 // Color Conversion
 const rgb = hexToRgb("#ff0000"); // { r: 255, g: 0, b: 0 }
